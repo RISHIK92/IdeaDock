@@ -94,10 +94,6 @@ IdeaDock is a productivity tool that allows users to save YouTube videos and Twe
 
 Fork the repository.
 
-## API
-
-The IdeaDock API provides endpoints for managing user accounts, saving YouTube videos and Tweets, and sharing links. Detailed API documentation will be provided in a separate file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
