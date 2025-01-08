@@ -98,20 +98,6 @@ Fork the repository.
 
 The IdeaDock API provides endpoints for managing user accounts, saving YouTube videos and Tweets, and sharing links. Detailed API documentation will be provided in a separate file.
 
-## Testing
-
-The IdeaDock project includes a comprehensive test suite to ensure the reliability and stability of the application. Tests are written using a testing framework like Jest or Mocha, and can be run using the following commands:
-
-```bash
-# Run backend tests
-cd backend
-npm test
-
-# Run frontend tests
-cd frontend
-npm test
-```
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
