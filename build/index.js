@@ -24,7 +24,8 @@ const middleware_1 = require("./middleware");
 const utils_1 = require("./utils");
 const cors_1 = __importDefault(require("cors"));
 const app = (0, express_1.default)();
-mongoose_1.default.connect("mongodb+srv://rishik3555:u6SX8FKJ4SaRgkqN@cluster0.sbvxn.mongodb.net/Brain-App");
+// mongoose_1.default.connect("{**mongodb Url**}");
+// replace moongodb url
 app.use(express_1.default.json());
 app.use((0, cors_1.default)());
 app.post('/api/v1/signup/', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
