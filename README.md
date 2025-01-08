@@ -60,14 +60,13 @@ IdeaDock is a productivity tool that allows users to save YouTube videos and Twe
 
    **Start the Backend:**
    ```bash
-   cd backend
-   npm start
+   node build/index.js
    ```
 
    **Start the Frontend:**
    ```bash
    cd frontend
-   npm start
+   npm rum dev
    ```
 
    Now, you should be able to access the application by navigating to `http://localhost:3000` (or whichever port the frontend uses).
